@@ -1,5 +1,7 @@
 # Pico-ePaper-2.13
 
+English | [简体中文](https://github.com/zwyzwm/Pico-ePaper-2.13/blob/main/README.ZH.md)
+
 ## 构建运行环境
 
 参考:` https://github.com/milkv-duo/duo-examples `
